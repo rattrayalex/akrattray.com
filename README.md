@@ -4,7 +4,9 @@ Dear Anna Kate,
 
 Happy (early) Birthday! 
 
-You have another gift coming too, but I was too excited about this one to let it wait. It's your own website that you can edit to your heart's content! All you have to do is click `"index.html"` here on [this webpage](https://www.github.com/rattrayalex/akrattray.com), and then "Edit" (it's the pencil icon in the top right of the the HTML gobbledy-gook). Or just click [here](https://github.com/rattrayalex/akrattray.com/edit/gh-pages/index.html) if you're lazy. 
+You have another gift coming too, but I was too excited about this one to let it wait. It's your own website that you can edit to your heart's content! 
+
+All you have to do is [create a Github account](https://github.com/join), tell me your username so I can add you as an admin, click `"index.html"` here on [this webpage](https://www.github.com/rattrayalex/akrattray.com), and then "Edit" (it's the pencil icon in the top right). Or just click [here](https://github.com/rattrayalex/akrattray.com/edit/gh-pages/index.html). 
 
 I hope it's a fun way for you to learn some HTML and maybe even some CSS! Mom knows a little and she can help you; maybe Zach can jump in too! (Maybe it'll also get you to call up yer ol' brother Alex on the Skype one of these days, too...)
 
